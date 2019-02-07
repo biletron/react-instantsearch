@@ -9,6 +9,7 @@ build/
 *.iml
 preview.zip
 .happypack/
+website/storybook
 
 # Argos CI screenshots
 integration/screenshots/
